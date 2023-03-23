@@ -1,0 +1,3 @@
+###PUNTO 1)f)
+
+- No puedo ver el archivo <tp2_1_2.c> una vez paso a la rama Opcion_2 desde la rama Main ya que este se encuentra solo en esta rama del repositorio 
