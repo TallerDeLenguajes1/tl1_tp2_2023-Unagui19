@@ -1,3 +1,7 @@
 ###PUNTO 1)f)
 
 - No puedo ver el archivo <tp2_1_2.c> una vez paso a la rama Opcion_2 desde la rama Main ya que este se encuentra solo en esta rama del repositorio 
+
+- Puedo notar que se modifico el main sin tocar la rama de Opcion_2
+
+- Al hacer merge en al main con Opcion_2 las ramas se combinaron en la rama main
